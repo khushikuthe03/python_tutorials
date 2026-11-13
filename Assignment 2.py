@@ -97,3 +97,4 @@ s2=int(input("Enter time in seconds:"))
 t1=(h1*3600)+(m1*60)+(s1)
 t2=(h2*3600)+(m2*60)+(s2)
 print("Difference in seconds=",t2-t1)
+# Done
